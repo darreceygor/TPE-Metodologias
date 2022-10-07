@@ -1,6 +1,6 @@
 # TPE-Metodologias
 ---------------
-# JIRA
+:pushpin:JIRA
 ## RoadMap
 https://darreceygor.atlassian.net/jira/software/projects/WARMUP/boards/2/roadmap
 
