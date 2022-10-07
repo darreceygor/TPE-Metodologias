@@ -2,7 +2,7 @@
 ---------------
 :pushpin: JIRA
 
-- :newspaper_roll: RoadMap
+:newspaper_roll: RoadMap
 https://darreceygor.atlassian.net/jira/software/projects/WARMUP/boards/2/roadmap
 
 :bookmark: BackLog
@@ -14,6 +14,7 @@ https://darreceygor.atlassian.net/jira/software/projects/WARMUP/boards/2
 --------------------
 
 :pushpin: Confluence
+
 :books: Documentacion TPE Metodologias
 https://darreceygor.atlassian.net/l/cp/Wma0qaAn
 
@@ -29,5 +30,6 @@ https://darreceygor.atlassian.net/wiki/spaces/DO/pages/1573260/Documentaci+n+de+
 
 --------------------
 :pushpin: Miro
+
 :clipboard: USER Mapping
 https://miro.com/app/board/uXjVPQdrsIs=/
