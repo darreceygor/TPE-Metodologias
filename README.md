@@ -20,13 +20,13 @@ https://darreceygor.atlassian.net/l/cp/Wma0qaAn
 
 :newspaper: Paginas
 
--:clipboard: Criterio de DONE
+- :clipboard: Criterio de DONE
 https://darreceygor.atlassian.net/wiki/spaces/DO/pages/1507570/Criterio+de+DONE
 
--:paperclip: Template para Testing
+- :paperclip: Template para Testing
 https://darreceygor.atlassian.net/wiki/spaces/DO/pages/1507846/Template+para+testing
 
--:card_file_box: Documentacion Codigo Fuente
+- :card_file_box: Documentacion Codigo Fuente
 https://darreceygor.atlassian.net/wiki/spaces/DO/pages/1573260/Documentaci+n+de+Codigo+Fuente
 
 --------------------
