@@ -11,7 +11,7 @@
 ## Documentacion TPE Metodologias
    -> https://darreceygor.atlassian.net/l/cp/Wma0qaAn
 ## Paginas
-  ## Criterio de DONE => https://darreceygor.atlassian.net/wiki/spaces/DO/pages/1507570/Criterio+de+DONE
+  ### Criterio de DONE => https://darreceygor.atlassian.net/wiki/spaces/DO/pages/1507570/Criterio+de+DONE
   ## Template para Testing => https://darreceygor.atlassian.net/wiki/spaces/DO/pages/1507846/Template+para+testing
   ## Documentacion Codigo Fuente => https://darreceygor.atlassian.net/wiki/spaces/DO/pages/1573260/Documentaci+n+de+Codigo+Fuente
 
