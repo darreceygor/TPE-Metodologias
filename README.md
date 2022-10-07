@@ -1,6 +1,6 @@
 # TPE-Metodologias
 ---------------
-:pushpin: **negrita**JIRA
+:pushpin: __negrita__JIRA
 
 :newspaper_roll: RoadMap
 https://darreceygor.atlassian.net/jira/software/projects/WARMUP/boards/2/roadmap
