@@ -1,6 +1,6 @@
 # TPE-Metodologias
 ---------------
-:pushpin: **negrita**JIRA**negrita**
+:pushpin: **JIRA**
 
 :newspaper_roll: RoadMap
 https://darreceygor.atlassian.net/jira/software/projects/WARMUP/boards/2/roadmap
@@ -13,7 +13,7 @@ https://darreceygor.atlassian.net/jira/software/projects/WARMUP/boards/2
 
 --------------------
 
-:pushpin: **negrita**Confluence
+:pushpin: **CONFLUENCE**
 
 :books: Documentacion TPE Metodologias
 https://darreceygor.atlassian.net/l/cp/Wma0qaAn
@@ -30,7 +30,7 @@ https://darreceygor.atlassian.net/wiki/spaces/DO/pages/1507846/Template+para+tes
 https://darreceygor.atlassian.net/wiki/spaces/DO/pages/1573260/Documentaci+n+de+Codigo+Fuente
 
 --------------------
-:pushpin: **negrita**Miro
+:pushpin: **MIRO**
 
 :clipboard: USER Mapping
 https://miro.com/app/board/uXjVPQdrsIs=/
