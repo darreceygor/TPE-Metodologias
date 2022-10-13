@@ -34,3 +34,9 @@ https://darreceygor.atlassian.net/wiki/spaces/DO/pages/1573260/Documentaci+n+de+
 
 :clipboard: USER Mapping
 https://miro.com/app/board/uXjVPQdrsIs=/
+
+-----------------------------------------
+:card_index: "CANVA"
+https://www.canva.com/design/DAFOMwy1lE8/GpIHWE9ArYgT9crwsNhcKw/edit
+
+
