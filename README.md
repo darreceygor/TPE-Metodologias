@@ -36,7 +36,8 @@ https://darreceygor.atlassian.net/wiki/spaces/DO/pages/1573260/Documentaci+n+de+
 https://miro.com/app/board/uXjVPQdrsIs=/
 
 -----------------------------------------
-:card_index: "CANVA"
+:pushpin: **CANVA**
+:card_index: Bosquejo de UI para Sistema de Gestión
 https://www.canva.com/design/DAFOMwy1lE8/GpIHWE9ArYgT9crwsNhcKw/edit
 
 
