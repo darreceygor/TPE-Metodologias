@@ -21,3 +21,6 @@ footer{
     background-color: rgb(16, 153, 207);
     color: white;
 }
+.flex-container {    
+    display: flex;   
+}
