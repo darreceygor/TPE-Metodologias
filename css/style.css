@@ -28,3 +28,7 @@ footer{
 body {
     background-color: rgb(203, 229, 240);
 }
+
+#id_oculto{
+    display: none;
+}
