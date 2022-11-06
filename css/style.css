@@ -24,3 +24,7 @@ footer{
 .flex-container {    
     display: flex;   
 }
+
+body {
+    background-color: rgb(203, 229, 240);
+}
