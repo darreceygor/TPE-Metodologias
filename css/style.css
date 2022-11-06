@@ -9,8 +9,15 @@ nav a{
     text-decoration: none;
     color: white;
 }
-
 td, th{
     padding: 5px;
     padding-left: 20px;
+}
+footer{
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(16, 153, 207);
+    color: white;
 }
