@@ -24,6 +24,10 @@ class View
      
     }
 
+    public function renderTurnos()
+    {    
+     $this->smarty->display('templates/turnos.tpl');
+    }
   
 
 }

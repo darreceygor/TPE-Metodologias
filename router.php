@@ -23,7 +23,10 @@ switch ($params[0]) {
         break;
     case 'paciente': 
         $Controller->showPaciente(); 
-        break; 
+        break;
+    case 'turnos':
+        $Controller->showTurnos();
+        break;
     default:
         $Controller->showHome();  //Por defecto va al Home.
         break;
