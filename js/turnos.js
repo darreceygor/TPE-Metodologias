@@ -6,7 +6,7 @@ async function seleccionarMedico() {
 
     let medico = select.value
     try {
-        let response = await fetch(`http://localhost/proyectos/TurnoFacil/buscar/${medico}`);
+        let response = await fetch(`http://localhost/proyectos/AppTurnoFacil/TPE-Metodologias/buscar/${medico}`);
         if (response.ok) {
             let html = await response.text();
             document.querySelector("#ajax-contenedor").innerHTML = html;

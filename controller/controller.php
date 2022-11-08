@@ -1,6 +1,6 @@
 <?php
 require_once 'view/portal.php';
-
+require_once 'model/turnos.php';
 
 class Controller {
 
@@ -10,7 +10,7 @@ class Controller {
  public function __construct()
     {
         $this->view = new View(); 
-        // $this->model = new Model();
+        $this->model = new Model();
     }
 
 

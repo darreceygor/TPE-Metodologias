@@ -27,6 +27,9 @@ switch ($params[0]) {
     case 'turnos':
         $Controller->showTurnos();
         break;
+    case 'buscar':
+        $Controller->showRegistros($params[1]);
+        break;
     default:
         $Controller->showHome();  //Por defecto va al Home.
         break;
