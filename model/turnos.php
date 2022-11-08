@@ -17,4 +17,10 @@ class Model
         $turnos= $query->fetchAll(PDO::FETCH_OBJ);
         return $turnos;
     }
+
+    function deleteTurno($id)
+    {
+        $query = $this->db_turnos->prepare('DELETE FROM turnos WHERE id_turno= ?');
+        $query->execute([$id]);
+    }
 }

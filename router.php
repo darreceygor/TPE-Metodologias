@@ -30,6 +30,9 @@ switch ($params[0]) {
     case 'buscar':
         $Controller->showRegistros($params[1]);
         break;
+    case 'borrar':
+        $Controller->eliminar($params[1]);
+        break;
     default:
         $Controller->showHome();  //Por defecto va al Home.
         break;

@@ -35,6 +35,11 @@ class View
     $this->smarty->assign('turnos', $turnos);
     $this->smarty->display('turnosFiltrados.tpl');
     }
+
+    public function refreshTurnos()
+    {
+        header('Location: ' . BASE_URL . 'turnos');
+    }
   
 
 }
