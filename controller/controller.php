@@ -38,10 +38,11 @@ function showAbout()   {
    $this->view->renderAbout();  
 }
 
+
 function showRegistros($filtro)   {
- 
-    $turnos = $this->model->getTurnos();
-    $this->view->renderRegistros($turnos, $filtro);  
+  
+    $turnos = $this->model->getTurnos($filtro);
+    $this->view->renderRegistros($turnos);  
 }
 
 

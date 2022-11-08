@@ -15,7 +15,7 @@
     <thead>
 
     {foreach from=$turnos item=$info}    
-        {if $filtro == $info->medico}
+    
     <form name="formulario" method="POST">
         <tr>
             <td>{$info->id_turno}</td>
@@ -27,7 +27,7 @@
               
         </tr>
     </form>
-{/if}
+
  {/foreach}
 
 </tbody>   

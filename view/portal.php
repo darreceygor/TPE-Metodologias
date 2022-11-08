@@ -33,9 +33,8 @@ class View
      $this->smarty->display('templates/turnos.tpl');
     }
 
-    public function renderRegistros($turnos, $filtro)
+    public function renderRegistros($turnos)
     { 
-    $this->smarty->assign('filtro', $filtro);
     $this->smarty->assign('turnos', $turnos);
     $this->smarty->display('turnosFiltrados.tpl');
     }

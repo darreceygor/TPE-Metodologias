@@ -10,13 +10,14 @@ class Model
         $this->db_turnos = new PDO('mysql:host=localhost;' . 'dbname=db_turnofacil;charset=utf8', 'root', '');
     }
     
-    function getTurnos()
+    function getTurnos($medico)
     {
-        $query = $this->db_turnos->prepare('SELECT * FROM turnos');
-        $query->execute();
+        $query = $this->db_turnos->prepare('SELECT * FROM turnos WHERE medico=?');
+        $query->execute([$medico]);
         $turnos= $query->fetchAll(PDO::FETCH_OBJ);
         return $turnos;
     }
+
 
     function deleteTurno($id)
     {
