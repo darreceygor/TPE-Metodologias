@@ -33,6 +33,9 @@ switch ($params[0]) {
     case 'borrar':
         $Controller->eliminar($params[1]);
         break;
+    case 'about':
+        $Controller->showAbout();
+        break; 
     default:
         $Controller->showHome();  //Por defecto va al Home.
         break;

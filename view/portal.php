@@ -23,6 +23,10 @@ class View
       $this->smarty->display('templates/login.tpl');
      
     }
+    public function renderAbout()
+    {
+      $this->smarty->display('templates/about.tpl');
+    }
 
     public function renderTurnos()
     {    
