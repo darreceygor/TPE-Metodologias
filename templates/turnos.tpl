@@ -6,6 +6,8 @@
 <h4>Cancelar turnos</h4>
 <br>
 <form id="form" method="POST">
+<label>Fecha </label>
+<input type="date" name="fecha" min="2000-01-01" max=""/>
 
     <div class="form-group">
         <label>Seleccionar Médico</label>
@@ -18,11 +20,10 @@
                                                
             </select>
 
-   <!-- 
-    <label>Fecha</label>
-   <input type="date" name="fecha" min="2000-01-01" max=""/>
-   <label>Hora</label>
-   <input type="time" name="hora" min="8:00" max="21:00" step='' />
+   
+   
+    <!-- <label>Hora</label>
+  <input type="time" name="hora" min="8:00" max="21:00" step='' />
    
    <button type="submit" class="btn btn-primary btn-sm">Buscar</button>
 -->
