@@ -1,4 +1,3 @@
-
 let select = document.querySelector("#selectMedico");
 select.addEventListener("change", seleccionarMedico);
 
@@ -19,8 +18,3 @@ async function seleccionarMedico() {
         document.querySelector("#ajax-contenedor").innerHTML = "Error al solicitar";
     }
 }
-
-
-
-
-
