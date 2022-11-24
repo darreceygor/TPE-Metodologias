@@ -19,6 +19,20 @@
             </select>
 
      </div>
+
+
+     <div class="form-group">
+     <label>Seleccionar Obra Social</label>
+         <select name="selectObraSocial" id="selectObraSocial">
+           <option disable>Elegir...</option>
+           <option >Osde</option>
+           <option >SwissMedical</option>
+           <option >Osecac</option>
+           <option >Ospe</option>
+                                            
+         </select>
+
+  </div>
 </form>
 </table>
 
