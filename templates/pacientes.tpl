@@ -31,6 +31,7 @@
            <option >Ospe</option>
                                             
          </select>
+      <button class="btn btn-outline-primary">BUSCAR TURNOS</button>
 
   </div>
 </form>
