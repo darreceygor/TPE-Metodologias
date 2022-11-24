@@ -21,7 +21,7 @@ switch ($params[0]) {
     case 'login': 
         $Controller->showLogin(); 
         break;
-    case 'pacientes': 
+    case 'paciente': 
         $Controller->showPaciente(); 
         break;
     case 'turnos':
