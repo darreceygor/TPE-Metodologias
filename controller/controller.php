@@ -24,8 +24,8 @@ class Controller {
     }
 
     function showPaciente()   {
-        
-        $this->view->renderHome();  
+     
+        $this->view->renderPacientes();  
     }
 
     function showTurnos()   {
