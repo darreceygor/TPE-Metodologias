@@ -36,4 +36,9 @@ class View
     public function refreshTurnos()
     {header('Location: ' . BASE_URL . 'turnos');
     }
+
+    public function renderPacientes()
+    {    
+     $this->smarty->display('templates/pacientes.tpl');
+    }
 }
