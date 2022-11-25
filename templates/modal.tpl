@@ -33,7 +33,11 @@
                         </div>
                     </form>
                 </div>
-               
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
+                    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal2"
+                        data-bs-whatever="@mdo">Confirmar turno</button>
+                </div>
             </div>
         </div>
     </div>
