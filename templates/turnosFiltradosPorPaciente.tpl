@@ -27,6 +27,9 @@
             <td>{$info->obraSocial}</td>
             <td>{$info->fecha}</td>
             <td>{$info->hora}</td>
+            <td><button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal"
+        data-bs-whatever="@mdo">Sacar turno</button></td>
+        </tr>
              
         </tr>
     </form>
