@@ -19,8 +19,6 @@
             </select>
 
      </div>
-
-
      <div class="form-group">
      <label>Seleccionar Obra Social</label>
          <select name="selectObraSocial" id="selectObraSocial">
@@ -31,9 +29,9 @@
            <option >Ospe</option>
                                             
          </select>
-      <button class="btn btn-outline-primary">BUSCAR TURNOS</button>
 
   </div>
+  <button class="btn btn-outline-primary">BUSCAR TURNOS</button>
 </form>
 </table>
 

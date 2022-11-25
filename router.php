@@ -28,8 +28,11 @@ switch ($params[0]) {
         $Controller->showTurnos();
         break;
     case 'buscar':
-        $Controller->showRegistros($params[1]);
+        $Controller->showRegistros($params[1], $params[2]);
         break;
+    case 'buscarDisponibles':
+    $Controller->showTurnosFiltros($params[1], $params[2]);
+    break;
     case 'borrar':
         $Controller->eliminar($params[1]);
         break;
