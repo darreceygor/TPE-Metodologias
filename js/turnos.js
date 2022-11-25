@@ -10,7 +10,7 @@ async function seleccionarMedico() {
     let medico = select.value   
     let fechaElegida= fecha.value
     try {
-        let response = await fetch(`http://localhost/proyectos/AppTurnoFacil/TPE-Metodologias/buscar/${medico}/${fechaElegida}`);
+        let response = await fetch(`http://localhost/TPE-Metodologias/buscar/${medico}/${fechaElegida}`);
         if (response.ok) {
             let html = await response.text();                          
             document.querySelector("#ajax-contenedor").innerHTML = html;

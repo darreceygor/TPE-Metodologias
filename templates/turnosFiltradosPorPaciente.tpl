@@ -1,4 +1,4 @@
-
+{include file = "modal.tpl"}
 
 <table  class="list">
     <tbody>
