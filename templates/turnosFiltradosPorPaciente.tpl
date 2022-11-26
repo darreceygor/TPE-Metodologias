@@ -4,13 +4,13 @@
     <tbody>
         <thead>
     <tr>
-        <th >Turno</th>
         <th >Nombre</th>
         <th >Apellido</th>
-        <th >Médico</th>
+        <th >Email</th>
         <th >Obra Social</th>
         <th >Fecha</th>  
-        <th >Hora</th>  
+        <th >Hora</th>
+        <th >Especialidad</th>  
            
     
     </tr>
@@ -20,13 +20,13 @@
     
     <form name="formulario" method="POST">
         <tr>
-            <td>{$info->id_turno}</td>
             <td>{$info->nombre}</td>
             <td>{$info->apellido}</td>
-            <td>{$info->medico}</td>
-            <td>{$info->obraSocial}</td>
-            <td>{$info->fecha}</td>
-            <td>{$info->hora}</td>
+            <td>{$info->email}</td>
+            <td>{$info->obra_social}</td>
+            <td>{$info->fecha_turno}</td>
+            <td>{$info->hora_turno}</td>
+            <td>{$info->especialidad}</td>
             <td><button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal"
         data-bs-whatever="@mdo">Sacar turno</button></td>
         </tr>

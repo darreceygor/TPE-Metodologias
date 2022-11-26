@@ -13,7 +13,7 @@ let selectObraSocial = document.getElementById("selectObraSocial");
     let ObraSocial= selectObraSocial.value
      
     try {
-        let response = await fetch(`http://localhost/TPE-Metodologias/buscarDisponibles/${Medico}/${ObraSocial}`);
+        let response = await fetch(`http://localhost/proyectos/AppTurnoFacil/TPE-Metodologias/buscarDisponibles/${Medico}/${ObraSocial}`);
         if (response.ok) {
             let html = await response.text();                          
             document.querySelector("#ajax-contenedor2").innerHTML = html;

@@ -20,7 +20,7 @@ class Model
     
     function getTurnosFiltros($medico, $os)
     {
-        $query = $this->db_turnos->prepare('SELECT * FROM turnos WHERE medico=? AND obraSocial=?');
+        $query = $this->db_turnos->prepare('SELECT * FROM medicos WHERE apellido=? AND obra_social=?');
         $query->execute([$medico, $os]);
         $turnos= $query->fetchAll(PDO::FETCH_OBJ);
         return $turnos;
