@@ -11,11 +11,11 @@
         <label>Seleccionar Médico</label>
             <select name="selectMedico" id="selectDoc">
               <option disable>Elegir...</option>
-              <option >Gonzalez</option>
-              <option >Morón</option>
+              <option >Rodriguez</option>
+              <option >Paez</option>
               <option >Sanchez</option>
               <option >Perez</option>
-                                               
+              <option >Ramirez</option>                               
             </select>
 
      </div>
